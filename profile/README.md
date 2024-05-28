@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm jem - Nattawat N.</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">Let's see what's going on...</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemiezler" alt="jemiezler" /></a> </p>
+
+- 🔭 My Personal Repo. [https://github.com/jemiezler](https://github.com/jemiezler)
 
 - 📫 How to reach me **phatthara.gem@gmail.com**
 
